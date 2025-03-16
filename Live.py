@@ -1,8 +1,8 @@
 
-name = input('Enter you name: ')
+#name = input('Enter you name: ')
 
 def welcome(name):
-    print(f'Hello {name} and welcome to the World of Games.\nHere you can find many cool games to play.')
+    print(f'Hello {name} and welcome to the World of Games (WoG).\nHere you can find many cool games to play.')
 
 
 def load_game():

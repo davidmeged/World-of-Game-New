@@ -1,4 +1,4 @@
-from Live import load_game, welcome
+from Live import welcome, load_game
 
-print(welcome('David'))
+welcome('David')
 load_game()
